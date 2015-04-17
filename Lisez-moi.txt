@@ -1,0 +1,2 @@
+Les fichiers de ce répèrtoire sont des fichiers sources écrit en Java 1.7
+Ces fichiers permettent de faire fonctionner un programme de mastermind.
