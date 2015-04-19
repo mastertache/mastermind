@@ -83,6 +83,7 @@ public class MasterMind {
 	 *           liste LaCombinaison.
 	 *           sinon reponse[0] contient les entiers bien placés et reponse[1] contient les entiers
 	 *           présents mais mal placés.
+	 *           rien
 	 */
 	static public boolean compare(int[] laCombinaison, int[] maCombinaison, int[] reponse){
 		int cpt1 = 0;
